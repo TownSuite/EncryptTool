@@ -7,8 +7,8 @@
     <ProjectGuid>{CB3E392A-679D-4C41-8277-7F671BC2F236}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EncyptTool</RootNamespace>
-    <AssemblyName>EncyptTool</AssemblyName>
+    <RootNamespace>EncryptTool</RootNamespace>
+    <AssemblyName>EncryptTool</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
